@@ -1,303 +1,132 @@
 <div align="center">
 
-<!-- Typing SVG with enhanced animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Navtej+👨‍💻;Full+Stack+Developer;AI%2FML+Engineer;Hackathon+Winner;Always+Shipping+Code!)](https://github.com/N-AVTEJ)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,3B82F6,06B6D4&height=300&section=header&text=Navtej&fontSize=90&fontColor=E6EDF3&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=60&descSize=20)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=&fontColor=000000" />
-
-<!-- Animated badges -->
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/🚀-SHIPPING_CODE-00FF41?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🤖-AI_PRODUCTS-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💼-OPEN_TO_OPPORTUNITIES-FFD700?style=for-the-badge&labelColor=0d1117" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+actually+ship+🚀;Next.js+·+Flask+·+Gemini+·+Python;2×+Hackathon+Winner+|+Open+to+Work;Turning+Ideas+→+Deployed+Products)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> whoami --full`
+## `$ cat about.yaml`
 
-```bash
-$ cat ~/profile.txt
-
-╔════════════════════════════════════════════════════════════════╗
-║                   NAVTEJ - PROFILE SUMMARY                     ║
-╚════════════════════════════════════════════════════════════════╝
-
-Name              → Navtej Madipadiga
-Role              → Full Stack Developer & AI/ML Engineer
-Current Position  → Intern @ ElevanceSkills (AI Products Division)
-Education         → B.Tech Computer Science
-                    Aurora University, Hyderabad (Graduation: 2028)
-Location          → Hyderabad, India 🇮🇳
-Status            → Open to Internships & Collaborations
-
-Key Stats:
-├─ 2 Live AI Products Built
-├─ 4 Hackathon Participations
-├─ 2nd Place @ AVISHKRUTI 2025
-└─ 100+ GitHub Projects
-
-Tagline: "Ship fast. Learn faster. Build smarter."
+```yaml
+name: Navtej
+role: Full Stack Developer & AI/ML Engineer
+internship: ElevanceSkills (AI division) — 2 Production AI Tools Shipped
+education: B.Tech Computer Science, Aurora University, Hyderabad (Expected 2028)
+location: Hyderabad, India
+status: 🟢 Open to Internships & Full-Time Opportunities
+github: N-AVTEJ
 ```
 
----
-
-## `> ls ./current-focus`
-
-🔥 **What I'm Working On:**
-
-- 🤖 Building AI-powered developer tools using **Gemini API**
-- 🚀 Deploying full-stack applications to **production**
-- 📊 Creating data-driven platforms with **Next.js 15 + Gemini 1.5**
-- 🎓 Mastering **Machine Learning** and **LLM integrations**
-- 🏗️ Contributing to **open-source** projects
-
----
-
-## `> ls ./projects --sort=recent`
-
-### 🌟 **Featured Projects** *(6 live products)*
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔍 **AutoDoc AI**
-AI-powered code documentation & bug analyzer that automatically generates comprehensive documentation and identifies potential bugs.
-
-**Tech Stack:**
-- `Next.js` `Gemini API` `React` `TypeScript` `Vercel`
-
-[→ GitHub](https://github.com/N-AVTEJ/AutoDoc-aiForDevlopers) | [→ Live Demo](https://auto-doc-ai-for-devlopers.vercel.app)
-
-</td>
-<td width="50%">
-
-#### 📊 **DevLens AI**
-GitHub career intelligence platform. Analyze developer profiles, track contributions, and get AI-powered insights for career growth.
-
-**Tech Stack:**
-- `Next.js 15` `Gemini 1.5 Flash` `GitHub API` `Recharts` `TypeScript`
-
-[→ GitHub](https://github.com/N-AVTEJ/devlens_git)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 **Jarvis AI Chatbot**
-Deployed AI assistant with natural language understanding. Real-time responses with sleek UI.
-
-**Tech Stack:**
-- `HTML5` `CSS3` `JavaScript` `Web APIs` `GitHub Pages`
-
-[→ GitHub](https://github.com/N-AVTEJ/jarvis_ai_chatbot) | [→ Live Demo](https://n-avtej.github.io/jarvis_ai_chatbot/)
-
-</td>
-<td width="50%">
-
-#### 💊 **Pharmacy Protect**
-Smart pharmacy management system with AI features. Inventory tracking, prescription management, and intelligent alerts.
-
-**Tech Stack:**
-- `Flask` `MySQL` `Python` `REST APIs` `HTML/CSS`
-
-[→ GitHub](https://github.com/N-AVTEJ/pharmacy_protect)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎬 **Movie Recommender**
-ML-powered movie recommendation engine using collaborative filtering and content-based algorithms.
-
-**Tech Stack:**
-- `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
-
-[→ GitHub](https://github.com/N-AVTEJ/Movie_recommendation_system)
-
-</td>
-<td width="50%">
-
-#### 🔐 **Java Password Manager**
-Secure intelligent vault for managing credentials with advanced encryption and password generation.
-
-**Tech Stack:**
-- `Java` `Encryption` `Security` `OOP` `File I/O`
-
-[→ GitHub](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> cat ./tech-stack.json --pretty`
-
-<div align="center">
-
-### **💻 Technologies & Tools**
-
-```json
-{
-  "frontend_stack": {
-    "frameworks": ["Next.js 15", "React 18", "Tailwind CSS"],
-    "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-    "tools": ["Vercel", "Git", "GitHub Actions"]
-  },
-  
-  "backend_stack": {
-    "frameworks": ["Node.js", "Express.js", "Flask"],
-    "languages": ["Python", "JavaScript", "Java"],
-    "databases": ["PostgreSQL", "MySQL", "Supabase", "MongoDB"]
-  },
-  
-  "ai_ml_stack": {
-    "apis": ["Gemini API", "Claude API", "GitHub API"],
-    "tools": ["Streamlit", "TensorFlow", "Scikit-learn", "Pandas"],
-    "specialties": ["LLM Integration", "RAG Systems", "Data Analysis"]
-  },
-  
-  "devops_tools": [
-    "Docker", "GitHub", "Vercel", "Git", "REST APIs",
-    "Postman", "VS Code", "Linux Terminal"
-  ]
-}
-```
-
-### **Skill Breakdown**
-
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **Frontend** | React · Next.js · TypeScript · Tailwind · HTML/CSS | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js · Express · Python · Flask · REST APIs | ⭐⭐⭐⭐⭐ |
-| **AI/ML** | Gemini API · Claude API · Scikit-learn · TensorFlow | ⭐⭐⭐⭐☆ |
-| **Databases** | PostgreSQL · MySQL · Supabase · MongoDB | ⭐⭐⭐⭐☆ |
-| **DevOps** | Docker · Git · GitHub Actions · Vercel | ⭐⭐⭐⭐☆ |
-
-</div>
-
----
-
-## `> cat ./achievements.log --tail`
-
-<div align="center">
-
-### **🏆 Achievements & Recognition**
+## `$ cat wins.log`
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                    ACHIEVEMENT TIMELINE                         ║
-╚════════════════════════════════════════════════════════════════╝
-
-[2025-01] 🥈 2nd Place Winner
-          → AVISHKRUTI 2025 Build-a-Thon (50+ Teams)
-          
-[2025-01] 🏆 Top 1000 Participants  
-          → Vibe Hacks - HackWithIndia
-          
-[2024-12] 🎯 Finalist
-          → IIT Hyderabad Hackathon
-          
-[2024-12] 🎯 Finalist
-          → IIT Madras Hackathon
-          
-[2024-11] 💼 Full-Stack AI Engineer Intern
-          → ElevanceSkills (AI Products Division)
-          → Built: DevLens AI + AutoDoc AI (2 live products)
-```
-
-</div>
-
----
-
-## `> git status --stats`
-
-<div align="center">
-
-### **📊 GitHub Statistics**
-
-![Navtej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff)
-
-</div>
-
----
-
-## `> ./contribution-graph`
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&bg_color=0d1117&color=00FF41&line=00d4ff&point=00FF41&hide_border=true)
-
-</div>
-
----
-
-## `> ping ./connect --verbose`
-
-<div align="center">
-
-### **🌐 Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navtej-k)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/N-AVTEJ/N-AVTEJ/blob/main/portfolio.html)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navtej.k@elevance.ai)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-
-### **Quick Stats**
-- 📍 Based in **Hyderabad, India**
-- 💼 Intern @ **ElevanceSkills**
-- 🎓 Student @ **Aurora University** (Graduating 2028)
-- ✉️ Reach out: **navtej.k@elevance.ai**
-- 🤝 Open to: **Collaborations, Internships, Opportunities**
-
-</div>
-
----
-
-## `> cat ./extra-info.md`
-
-### **💡 About Me**
-
-I'm a passionate Full Stack Developer and AI/ML Engineer based in Hyderabad with a knack for building production-ready applications. I love leveraging cutting-edge APIs like Gemini for intelligent solutions and creating seamless user experiences with modern tech stacks.
-
-**What drives me:**
-- 🚀 Building products that solve real problems
-- 🤖 Exploring the possibilities of AI and Machine Learning
-- 📚 Continuously learning new technologies
-- 🤝 Contributing to open-source and collaborating with amazing developers
-- 🏆 Winning hackathons and shipping features
-
-**My approach:**
-```
-Problem → Design → Code → Deploy → Iterate
+[✨] 2nd Place — AVISHKRUTI 2025 Build-a-Thon
+[🏆] Top 1,000 — Vibe Hacks by HackWithIndia
+[🎯] Finalist — IIT Hyderabad Hackathon
+[🎯] Finalist — IIT Madras Hackathon
+[💼] AI Intern — ElevanceSkills
+[🚀] 2 Production AI Products Deployed to Vercel
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+<img src="https://github-readme-stats.vercel.app/api?username=N-AVTEJ&theme=tokyonight&bg_color=0d1117&title_color=7C3AED&text_color=E6EDF3&icon_color=3B82F6&border_color=30363d&show_icons=true&hide_border=false&count_private=true" width="48%" />
 
-### **"Ship fast. Learn faster. Build smarter."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=N-AVTEJ&color=00FF41&style=flat-square&label=Profile+Views)
-
-<!-- Fun Easter Egg Comment -->
-<!-- 
-  If you're reading this, you're awesome! 
-  Let's build something incredible together 🚀
-  Feel free to reach out at navtej.k@elevance.ai
--->
+<img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=tokyonight&ring=7C3AED&fire=3B82F6&sideNums=06B6D4&background=0d1117" width="48%" />
 
 </div>
+
+---
+
+## `$ ls -la shipped_products/`
+
+<div align="center">
+
+| 🚀 Project | 💡 Impact | 🛠️ Stack | 🔗 Links |
+|-----------|-----------|---------|---------|
+| **AutoDoc AI** | AI-powered code documentation & bug analyzer. Free tier + BYOK model. | Next.js, Gemini API, Vercel | [![Live](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://auto-doc-ai-for-devlopers.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/AutoDoc-aiForDevlopers) |
+| **DevLens AI** | GitHub profile analyzer + career intelligence platform. Built in 48 hours. | Next.js 15, Gemini 1.5 Flash, Recharts | [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/devlens_git) |
+| **Pharmacy Protect** | Smart pharmacy management with AI expiry prediction & drug interactions. | Flask, MySQL, Python | [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/pharmacy_protect) |
+| **Movie Recommender** | ML-powered system with collaborative + content-based filtering. | Python, Scikit-learn, Streamlit | [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/Movie_recommendation_system) |
+| **Jarvis AI Chatbot** | Deployed AI assistant with voice-style UI. | HTML, CSS, JavaScript | [![Live](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://n-avtej.github.io/jarvis_ai_chatbot/) [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/jarvis_ai_chatbot) |
+| **Password Manager** | Intelligent vault with military-grade encryption. | Java | [![Repo](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager) |
+
+</div>
+
+---
+
+## `$ cat tech_stack.txt`
+
+<div align="center">
+
+### Frontend Stack
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Backend & AI/ML
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Gemini API](https://img.shields.io/badge/Gemini_API-7C3AED?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+
+### Database & Tools
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-AVTEJ&theme=tokyonight&bg_color=0d1117&title_color=7C3AED&text_color=E6EDF3&layout=donut&hide_border=false" width="50%" />
+
+</div>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=tokyo-night&bg_color=0d1117&color=7C3AED&line=3B82F6&point=06B6D4&area=true&hide_border=false" width="100%" />
+
+---
+
+## `$ connect --with=me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navtej-singh-643702268)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://n-avtej-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navtejsingh2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   "I don't plan products. I ship them."     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=N-AVTEJ&color=7C3AED&style=flat-square" alt="Profile Views" />
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,3B82F6,06B6D4&height=150&section=footer)
