@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B;Full+Stack+%2B+AI%2FML+Engineer;Building+AI+tools+that+actually+work;Hackathon+finalist+%7C+Open+to+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B;Building+AI+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Let's+Ship+Code+%E2%9C%A8)](https://github.com/N-AVTEJ)
 <!-- Typing SVG with enhanced animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Navtej+👨‍💻;Full+Stack+Developer;AI%2FML+Engineer;Hackathon+Winner;Always+Shipping+Code!)](https://github.com/N-AVTEJ)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B;Building+AI+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Let's+Ship+Code+%E2%9C%A8)](https://github.com/N-AVTEJ)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=header&text=&fontColor=000000" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=&fontColor=000000" />
@@ -25,9 +25,8 @@
 ```bash
 $ navtej --info
 
-Name       : Navtej
+Name       : Navtej Madipadiga
 Role       : Full Stack Developer & AI/ML Engineer
-Intern     : ElevanceSkills (AI Products)
 College    : Aurora University, Hyderabad | B.Tech CS (2028)
 Location   : Hyderabad, India 🇮🇳
 Status     : Open to internships & collaborations
@@ -39,7 +38,6 @@ $ cat ~/profile.txt
 
 Name              → Navtej Madipadiga
 Role              → Full Stack Developer & AI/ML Engineer
-Current Position  → Intern @ ElevanceSkills (AI Products Division)
 Education         → B.Tech Computer Science
                     Aurora University, Hyderabad (Graduation: 2028)
 Location          → Hyderabad, India 🇮🇳
@@ -224,7 +222,6 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 [2025] 🏆 Top 1000  — Vibe Hacks (HackWithIndia)
 [2025] 🎯 Finalist  — IIT Hyderabad Hackathon
 [2025] 🎯 Finalist  — IIT Madras Hackathon
-[2025] 💼 Intern    — ElevanceSkills | Built DevLens AI + AutoDoc AI
 ╔════════════════════════════════════════════════════════════════╗
 ║                    ACHIEVEMENT TIMELINE                         ║
 ╚════════════════════════════════════════════════════════════════╝
@@ -240,10 +237,6 @@ Secure intelligent vault for managing credentials with advanced encryption and p
           
 [2024-12] 🎯 Finalist
           → IIT Madras Hackathon
-          
-[2024-11] 💼 Full-Stack AI Engineer Intern
-          → ElevanceSkills (AI Products Division)
-          → Built: DevLens AI + AutoDoc AI (2 live products)
 ```
 
 </div>
@@ -257,11 +250,12 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+
 ### **📊 GitHub Statistics**
 
-![Navtej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&include_all_commits=true)
+![Navtej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
 
 <img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 ![GitHub Streak](https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff)
@@ -291,16 +285,14 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navtej-k)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navtejmadipdiga@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/N-AVTEJ/N-AVTEJ/blob/main/portfolio.html)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navtej.k@elevance.ai)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 ### **Quick Stats**
 - 📍 Based in **Hyderabad, India**
-- 💼 Intern @ **ElevanceSkills**
 - 🎓 Student @ **Aurora University** (Graduating 2028)
-- ✉️ Reach out: **navtej.k@elevance.ai**
+- ✉️ Reach out: **navtejmadipdiga@gmail.com**
 - 🤝 Open to: **Collaborations, Internships, Opportunities**
 
 </div>
@@ -311,7 +303,7 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 ### **💡 About Me**
 
-I'm a passionate Full Stack Developer and AI/ML Engineer based in Hyderabad with a knack for building production-ready applications. I love leveraging cutting-edge APIs like Gemini for intelligent solutions and creating seamless user experiences with modern tech stacks.
+I'm a passionate Full Stack Developer and AI/ML Engineer based in Hyderabad with a knack for building production-ready applications. I love leveraging cutting-edge APIs like Gemini for intelligent solutions and modern web frameworks for seamless user experiences.
 
 **What drives me:**
 - 🚀 Building products that solve real problems
@@ -341,7 +333,7 @@ Problem → Design → Code → Deploy → Iterate
 <!-- 
   If you're reading this, you're awesome! 
   Let's build something incredible together 🚀
-  Feel free to reach out at navtej.k@elevance.ai
+  Feel free to reach out at navtejmadipdiga@gmail.com
 -->
 
 </div>
