@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=Navtej%20Madipadiga&fontColor=000000&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Navtej%20Madipadiga&fontColor=00FF41&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+with+Gemini+%26+Claude+APIs;Ship+fast.+Learn+faster.+Build+smarter." alt="Typing SVG" />
+<br/>
 
-<img src="https://img.shields.io/badge/🚀-SHIPPING_CODE-00FF41?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🤖-AI_PRODUCTS-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/💼-OPEN_TO_OPPORTUNITIES-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+with+Gemini+%26+Claude+APIs;Ship+fast.+Learn+faster.+Build+smarter." alt="Typing SVG" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/🚀-SHIPPING_CODE-00FF41?style=for-the-badge&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/🤖-AI_PRODUCTS-00d4ff?style=for-the-badge&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/💼-OPEN_TO_OPPORTUNITIES-FFD700?style=for-the-badge&labelColor=0d1117" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -178,6 +186,8 @@ Secure credential vault with advanced encryption and password generation.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=N-AVTEJ&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+
 </div>
 
 ---
@@ -186,10 +196,17 @@ Secure credential vault with advanced encryption and password generation.
 
 ## 🌐 Let's Connect!
 
-📍 Based in Hyderabad, India · 🎓 Aurora University (Graduating 2028)
-✉️ **navtejmadipdiga@gmail.com** · 🤝 Open to Collaborations, Internships & Opportunities
+📍 Based in Hyderabad, India &nbsp;·&nbsp; 🎓 Aurora University (Graduating 2028) &nbsp;·&nbsp; 🤝 Open to Collaborations & Internships
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+<a href="mailto:navtejmadipdiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/N-AVTEJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=N-AVTEJ&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=150&section=footer" width="100%"/>
 
 **"Ship fast. Learn faster. Build smarter."**
 
