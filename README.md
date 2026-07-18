@@ -170,6 +170,10 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 ### **💻 Technologies & Tools**
 
+</div>
+
+<div align="center">
+
 ```json
 {
   "frontend"  : ["Next.js", "React", "TypeScript", "Tailwind CSS", "HTML/CSS"],
@@ -202,6 +206,10 @@ Secure intelligent vault for managing credentials with advanced encryption and p
   ]
 }
 ```
+
+</div>
+
+<div align="center">
 
 ### **Skill Breakdown**
 
