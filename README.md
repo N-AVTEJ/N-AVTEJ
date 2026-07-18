@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B;Building+AI+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Let's+Ship+Code+%E2%9C%A8)](https://github.com/N-AVTEJ)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B)](https://github.com/N-AVTEJ)
 <!-- Typing SVG with enhanced animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B;Building+AI+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Let's+Ship+Code+%E2%9C%A8)](https://github.com/N-AVTEJ)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Navtej+%F0%9F%91%8B)](https://github.com/N-AVTEJ)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=header&text=&fontColor=000000" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=&fontColor=000000" />
@@ -61,7 +61,7 @@ Tagline: "Ship fast. Learn faster. Build smarter."
 
 | Project | Stack | Live |
 |---------|-------|------|
-| 🔍 **[AutoDoc AI](https://github.com/N-AVTEJ/AutoDoc-aiForDevlopers)** — AI code documentation & bug analyzer | Next.js · Gemini API | [▶ Live](https://auto-doc-ai-for-devlopers.vercel.app) |
+| 🔍 **[AutoDoc AI](https://github.com/N-AVTEJ/AutoDoc-ai-ForDevlopers)** — AI code documentation & bug analyzer | Next.js · Gemini API | [▶ Live](https://auto-doc-ai-for-devlopers.vercel.app) |
 | 📊 **[DevLens AI](https://github.com/N-AVTEJ/devlens_git)** — GitHub career intelligence platform | Next.js 15 · Gemini · Recharts | — |
 | 💊 **[Pharmacy Protect](https://github.com/N-AVTEJ/pharmacy_protect)** — Smart pharmacy management system | Flask · MySQL · Python | — |
 | 🤖 **[Jarvis AI Chatbot](https://github.com/N-AVTEJ/jarvis_ai_chatbot)** — Deployed AI assistant | HTML · CSS · JS | [▶ Live](https://n-avtej.github.io/jarvis_ai_chatbot/) |
@@ -85,12 +85,19 @@ Tagline: "Ship fast. Learn faster. Build smarter."
 <td width="50%">
 
 #### 🔍 **AutoDoc AI**
-AI-powered code documentation & bug analyzer that automatically generates comprehensive documentation and identifies potential bugs.
+AI-powered code documentation & bug analyzer that automatically generates comprehensive documentation and identifies potential bugs. Built with modern web technologies for optimal performance and user experience.
 
 **Tech Stack:**
 - `Next.js` `Gemini API` `React` `TypeScript` `Vercel`
 
-[→ GitHub](https://github.com/N-AVTEJ/AutoDoc-aiForDevlopers) | [→ Live Demo](https://auto-doc-ai-for-devlopers.vercel.app)
+**Features:**
+- 🧠 AI-powered code analysis and documentation generation
+- 🐛 Intelligent bug detection and fixes
+- 📝 Auto-documentation with markdown export
+- ⚡ Real-time processing with Gemini API
+- 🎨 Clean, intuitive user interface
+
+[→ GitHub](https://github.com/N-AVTEJ/AutoDoc-ai-ForDevlopers) | [→ Live Demo](https://auto-doc-ai-for-devlopers.vercel.app)
 
 </td>
 <td width="50%">
@@ -170,7 +177,7 @@ Secure intelligent vault for managing credentials with advanced encryption and p
   "ai_ml"     : ["Gemini API", "Claude API", "Streamlit", "Python ML"],
   "databases" : ["MySQL", "Supabase", "PostgreSQL"],
   "tools"     : ["Git", "Vercel", "GitHub Actions", "REST APIs"],
-  "languages" : ["JavaScript", "TypeScript", "Python", "Java"]
+  "languages" : ["JavaScript", "TypeScript", "Python", "Java"],
   "frontend_stack": {
     "frameworks": ["Next.js 15", "React 18", "Tailwind CSS"],
     "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
@@ -269,7 +276,7 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navtej-k)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://auto-doc-ai-for-devlopers.vercel.app)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&bg_color=0d1117&color=00FF41&line=00d4ff&point=00FF41&hide_border=true)
 
@@ -286,7 +293,7 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navtej-k)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-AVTEJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navtejmadipdiga@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/N-AVTEJ/N-AVTEJ/blob/main/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://auto-doc-ai-for-devlopers.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 ### **Quick Stats**
@@ -303,7 +310,7 @@ Secure intelligent vault for managing credentials with advanced encryption and p
 
 ### **💡 About Me**
 
-I'm a passionate Full Stack Developer and AI/ML Engineer based in Hyderabad with a knack for building production-ready applications. I love leveraging cutting-edge APIs like Gemini for intelligent solutions and modern web frameworks for seamless user experiences.
+I'm a passionate Full Stack Developer and AI/ML Engineer based in Hyderabad with a knack for building production-ready applications. I love leveraging cutting-edge APIs like Gemini for intelligent solutions and modern frameworks for scalable applications.
 
 **What drives me:**
 - 🚀 Building products that solve real problems
