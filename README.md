@@ -186,8 +186,6 @@ Secure credential vault with advanced encryption and password generation.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" />
-
 ---
 
 <div align="center">
