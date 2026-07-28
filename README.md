@@ -1,4 +1,4 @@
-<div align="center">
+*<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Navtej%20Madipadiga&fontColor=00FF41&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
@@ -179,8 +179,9 @@ Secure credential vault with advanced encryption and password generation.
 
 ## 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&count_private=true" />
-<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1801&count_private=true" />
+
+<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1801" />
 
 ### 📈 Contribution Graph
 
