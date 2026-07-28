@@ -179,10 +179,10 @@ Secure credential vault with advanced encryption and password generation.
 
 ## 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff" />
+<img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff&cache_seconds=1800" />
 
 ### 📈 Contribution Graph
 
