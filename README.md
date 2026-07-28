@@ -183,6 +183,8 @@ Secure credential vault with advanced encryption and password generation.
 
 <img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1801" />
 
+<img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff&cache_seconds=1800" />
+
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" width="95%" />
