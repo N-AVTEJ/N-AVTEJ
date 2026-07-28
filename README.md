@@ -1,56 +1,52 @@
-GitHub Profile README (Template)
-> **Note:** I intentionally did not invent achievements, project links,
-> or technologies that could not be verified. Replace the placeholders
-> (`YOUR_LINK_HERE`) with your real repository links.
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Navtej%20Madipadiga&fontColor=00FF41&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Developer;Building+Modern+Web+Applications;Ship+Fast.+Learn+Faster.+Build+Smarter." />`{=html}
-:::
-👋 About Me
-I'm Navtej Madipadiga, a B.Tech Computer Science student from Aurora
-University, Hyderabad. I enjoy building modern web applications,
-AI-powered tools, and full-stack projects while continuously learning
-new technologies.
-🚀 Full Stack Development
-🤖 AI Applications
-💻 Modern Web Technologies
-📚 Continuous Learning
-🤝 Open to internships and collaborations
+|🎯 2025 | Finalist — IIT Hyderabad Hackathon |
+
+| 🎯 2025 | Finalist — IIT Madras Hackathon |
+
+</div>
+
 ---
-🚀 Featured Projects
-Project                      Description
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=N-AVTEJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=N-AVTEJ&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00d4ff&cache_seconds=1800" />
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=N-AVTEJ&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+
+</div>
+
 ---
-AutoDoc AI                   AI-powered documentation assistant
-DevLens AI                   GitHub analytics and career insights
-Jarvis AI                    Browser-based AI assistant
-Pharmacy Management System   Inventory and billing platform
-Movie Recommender            Recommendation system
-Replace project links with your actual repositories.
----
-💻 Tech Stack
-Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js,
-Tailwind CSS
-Backend: Node.js, Express, Flask
-Databases: MySQL, MongoDB
-AI: Gemini API, Claude API, Scikit-learn
-Tools: Git, GitHub, Vercel, Postman
----
-📊 GitHub Analytics
-`<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>`{=html}
-`<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>`{=html}
-```{=html}
-<!-- Uncomment after self-hosting streak stats -->
-```
-```{=html}
-<!-- <img src="https://YOUR-STREAK-VERCEL.vercel.app?user=N-AVTEJ"/> -->
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&hide_border=true"/>`{=html}
-`<img src="https://github-profile-trophy.vercel.app/?username=N-AVTEJ&theme=algolia&no-frame=true&no-bg=true"/>`{=html}
----
-🌐 Connect
-GitHub: https://github.com/N-AVTEJ
-LinkedIn: YOUR_LINK_HERE
-Email: navtejmadipdiga@gmail.com
-::: {align="center"}
-Ship Fast • Learn Faster • Build Smarter
-:::
+
+<div align="center">
+
+## 🌐 Let's Connect!
+
+📍 Based in Hyderabad, India &nbsp;·&nbsp; 🎓 Aurora University (Graduating 2028) &nbsp;·&nbsp; 🤝 Open to Collaborations & Internships
+
+<a href="mailto:navtejmadipdiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://github.com/N-AVTEJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=N-AVTEJ&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=150&section=footer" width="100%"/>
+
+**"Ship fast. Learn faster. Build smarter."**
+
+<!-- If you're reading this, you're awesome! Let's build something incredible together 🚀 -->
+
+</div>
+
