@@ -26,126 +26,83 @@ Status     : Open to internships & collaborations
 
 ## 💡 About
 
-I design and ship **full-stack products with AI baked into the core** — not bolted on after. Recent work spans a Next.js career-intelligence platform wired to Gemini, a period-tracking Android app, and a Flask + MySQL pharmacy system with triggers and stored procedures running the backend.
+I design and ship **full-stack products with AI baked into the core** — not bolted on. Recent work spans a Next.js career-intelligence platform wired to Gemini, a period-tracking Android app, and a Flask + MySQL pharmacy system with triggers and stored procedures running the backend.
 
 - 🧠 Building with **Gemini** & **Claude** APIs — RAG pipelines, agentic flows, structured generation
 - ⚙️ Comfortable across the stack: React/Next.js frontends → Flask/Node backends → normalized SQL schemas
 - 🏆 4 hackathons, 2nd place at AVISHKRUTI (50+ teams)
-- 📈 32 public repos · 17 stars earned · actively shipping
+- 📈 32 public repos · actively shipping
 
-<br/>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
+| 🤖 AI Products Shipped | 🏆 Hackathons | 🥈 Best Result | 📦 Public Repos |
+|:---:|:---:|:---:|:---:|
+| **2 Live** | **4 Participated** | **2nd @ AVISHKRUTI** | **32** |
 
-<pre>
-┌────────────┐
-│  AI SHIPS  │
-│     2      │
-└────────────┘
-</pre>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<pre>
-┌────────────┐
-│ HACKATHONS │
-│     4      │
-└────────────┘
-</pre>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<pre>
-┌────────────┐
-│ BEST RANK  │
-│  2nd / 50+ │
-└────────────┘
-</pre>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<pre>
-┌────────────┐
-│ ACTIVE REPO│
-│     32     │
-└────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-```
-$ ls projects/ --starred
-```
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [DevLens AI](https://github.com/N-AVTEJ/devlens_git) `★ 5`
+### 🔍 [DevLens AI](https://github.com/N-AVTEJ/devlens_git)
 Career intelligence platform — scans a GitHub profile, scores it across 6 dimensions with Recharts radar visuals, and generates a 5-month roadmap. Includes an "Honest Roast Mode" for brutal AI feedback.
 
-`next.js 15` `react 19` `gemini 1.5` `three.js` `gsap`
+**Stack:** Next.js 15 · React 19 · Gemini 1.5 Flash · Three.js · GSAP · Recharts
 
 </td>
 <td width="50%" valign="top">
 
-### 🩸 [VelvetCycle Tracker](https://github.com/N-AVTEJ/VelvetCycle_tracker_app) `★ 5`
+### 🩸 [VelvetCycle Tracker](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)
 Native Android period-tracking app built for women's health, with an AI-assisted logging flow.
 
-`kotlin` `gradle` `gemini api`
+**Stack:** Kotlin · Gradle · Gemini API
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Pharmacy Protect](https://github.com/N-AVTEJ/pharmacy_protect) `★ 5`
+### 💊 [Pharmacy Protect](https://github.com/N-AVTEJ/pharmacy_protect)
 Full pharmacy management system — customer + admin portals, automated billing via DB triggers, 3NF-normalized schema with stored procedures and views.
 
-`flask` `mysql` `bootstrap 5` `sha256`
+**Stack:** Flask · MySQL · Bootstrap 5 · SHA256 auth
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Movie Recommender](https://github.com/N-AVTEJ/Movie_recommendation_system) `★ 7`
+### 🎬 [Movie Recommender](https://github.com/N-AVTEJ/Movie_recommendation_system)
 Recommendation engine combining collaborative filtering and content-based similarity scoring.
 
-`python` `scikit-learn` `pandas` `streamlit`
+**Stack:** Python · Scikit-learn · Pandas · Streamlit
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" colspan="2">
 
-### 🔐 [Java Secure Password Manager](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager) `★ 7`
+### 🔐 [Java Secure Password Manager](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager)
 Encrypted credential vault with intelligent password generation and secure local storage.
 
-`java` `encryption` `oop` `file i/o`
+**Stack:** Java · Encryption · OOP · File I/O
 
 </td>
 </tr>
 </table>
 
-<div align="center"><sub><a href="https://github.com/N-AVTEJ?tab=repositories">→ See all 32 repositories</a></sub></div>
+<div align="center">
+
+[→ See all 32 repositories](https://github.com/N-AVTEJ?tab=repositories)
+
+</div>
 
 ---
 
 ## 💻 Technologies & Tools
-
-```
-$ cat skills.json | jq
-```
 
 <div align="center">
 
@@ -165,63 +122,35 @@ $ cat skills.json | jq
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<pre>
-frontend    ██████████  react · next.js · ts
-backend     ██████████  node · express · flask
-ai / ml     ████████░░  gemini · claude · sklearn
-databases   ████████░░  postgres · mysql · mongo
-devops      ████████░░  docker · actions · vercel
-</pre>
-
-</td>
-<td width="50%" valign="top">
-
-<pre>
-languages   python · typescript · java · kotlin
-frontend    next.js · react · tailwind · three.js
-backend     node.js · express · flask
-ai / ml     gemini api · claude api · tensorflow
-data        postgresql · mysql · mongodb · supabase
-devops      docker · git · github actions · vercel
-</pre>
-
-</td>
-</tr>
-</table>
+| Layer | Tools |
+|:---|:---|
+| 🎨 **Frontend** | Next.js · React · TypeScript · Tailwind CSS · Three.js |
+| ⚙️ **Backend** | Node.js · Express · Flask |
+| 🤖 **AI/ML** | Gemini API · Claude API · Scikit-learn · TensorFlow |
+| 🗄️ **Data** | PostgreSQL · MySQL · MongoDB · Supabase |
+| 🚀 **DevOps** | Docker · Git · GitHub Actions · Vercel |
 
 ---
 
 ## 🏆 Achievements
 
-```
-$ cat achievements.log
-```
-
-```
-2025-Q3  [2ND PLACE]  AVISHKRUTI Build-a-Thon        · 50+ teams
-2025-Q3  [TOP 1000]   Vibe Hacks — HackWithIndia
-2025-Q2  [FINALIST]   IIT Hyderabad Hackathon
-2025-Q2  [FINALIST]   IIT Madras Hackathon
-```
+| Year | Result |
+|:---:|:---|
+| 🥈 2025 | **2nd Place** — AVISHKRUTI Build-a-Thon (50+ teams) |
+| 🏆 2025 | **Top 1000** — Vibe Hacks (HackWithIndia) |
+| 🎯 2025 | **Finalist** — IIT Hyderabad Hackathon |
+| 🎯 2025 | **Finalist** — IIT Madras Hackathon |
 
 ---
 
 ## 📊 GitHub Analytics
 
-```
-$ curl -s api.github.com/users/N-AVTEJ | jq .contributions
-```
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&include_all_commits=true&hide_border=true&bg_color=060a08&title_color=39ff14&icon_color=39ff14&text_color=8ce6ab&border_color=1c4a2c&cache_seconds=1801&count_private=true" />
-<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=8&hide_border=true&bg_color=060a08&title_color=39ff14&text_color=8ce6ab&border_color=1c4a2c&cache_seconds=1801" />
+<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1801&count_private=true" />
+<img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1801" />
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=N-AVTEJ&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" width="97%" />
 
@@ -229,18 +158,22 @@ $ curl -s api.github.com/users/N-AVTEJ | jq .contributions
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏅 Trophies
 
-```
-$ git log --graph --oneline --all | ./animate
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=N-AVTEJ&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/N-AVTEJ/N-AVTEJ/output/snake-dark.svg#gh-dark-mode-only" width="100%"/>
 <img src="https://raw.githubusercontent.com/N-AVTEJ/N-AVTEJ/output/snake-light.svg#gh-light-mode-only" width="100%"/>
 </div>
 
-<sub align="center">rebuilds daily via <code>.github/workflows/snake.yml</code> — needs one manual run under the Actions tab to seed the <code>output</code> branch</sub>
+<sub align="center">Needs <code>.github/workflows/snake.yml</code> committed + one manual run under the Actions tab to seed the <code>output</code> branch — see setup note below.</sub>
 
 ---
 
@@ -250,11 +183,8 @@ $ git log --graph --oneline --all | ./animate
 
 📍 Hyderabad, India &nbsp;·&nbsp; 🎓 Aurora University, Class of 2028 &nbsp;·&nbsp; 🤝 Open to internships & collabs
 
-<br/>
-
 <a href="mailto:navtejmadipdiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/N-AVTEJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
-<a href="https://www.linkedin.com/in/navtej-madipadiga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
