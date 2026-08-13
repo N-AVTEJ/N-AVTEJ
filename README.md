@@ -14,42 +14,42 @@ I design and ship **full-stack products with AI at the core** — not bolted on 
 <tr>
 <td width="25%" align="center" valign="top">
 
-```
+<pre>
 ┌────────────┐
 │  AI SHIPS  │
 │     2      │
 └────────────┘
-```
+</pre>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-```
+<pre>
 ┌────────────┐
 │ HACKATHONS │
 │     4      │
 └────────────┘
-```
+</pre>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-```
+<pre>
 ┌────────────┐
 │ BEST RANK  │
 │  2nd / 50+ │
 └────────────┘
-```
+</pre>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-```
+<pre>
 ┌────────────┐
 │ ACTIVE REPO│
 │     32     │
 └────────────┘
-```
+</pre>
 
 </td>
 </tr>
@@ -64,34 +64,34 @@ $ ls projects/ --starred
 <table width="100%">
 <tr><td width="50%" valign="top">
 
-**[devlens_git](https://github.com/N-AVTEJ/devlens_git)** `★ 5`
-GitHub career-intelligence platform. Scores a profile across 6 dimensions on a Recharts radar, renders a 3D hero, generates a 5-month roadmap. Ships an "honest roast mode" for unfiltered AI feedback.
+**[devlens_git](https://github.com/N-AVTEJ/devlens_git)** `★ 5`<br/>
+GitHub career-intelligence platform. Scores a profile across 6 dimensions on a Recharts radar, renders a 3D hero, generates a 5-month roadmap. Ships an "honest roast mode" for unfiltered AI feedback.<br/>
 `next.js 15` `react 19` `gemini 1.5` `three.js` `gsap`
 
 </td><td width="50%" valign="top">
 
-**[VelvetCycle_tracker_app](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)** `★ 5`
-Native Android period-tracking app for women's health with an AI-assisted logging flow.
+**[VelvetCycle_tracker_app](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)** `★ 5`<br/>
+Native Android period-tracking app for women's health with an AI-assisted logging flow.<br/>
 `kotlin` `gradle` `gemini api`
 
 </td></tr>
 <tr><td width="50%" valign="top">
 
-**[pharmacy_protect](https://github.com/N-AVTEJ/pharmacy_protect)** `★ 5`
-Pharmacy management system — customer and admin portals, automated billing via DB triggers, 3NF schema with stored procedures.
+**[pharmacy_protect](https://github.com/N-AVTEJ/pharmacy_protect)** `★ 5`<br/>
+Pharmacy management system — customer and admin portals, automated billing via DB triggers, 3NF schema with stored procedures.<br/>
 `flask` `mysql` `bootstrap 5`
 
 </td><td width="50%" valign="top">
 
-**[Movie_recommendation_system](https://github.com/N-AVTEJ/Movie_recommendation_system)** `★ 7`
-Recommendation engine blending collaborative filtering with content-based similarity scoring.
+**[Movie_recommendation_system](https://github.com/N-AVTEJ/Movie_recommendation_system)** `★ 7`<br/>
+Recommendation engine blending collaborative filtering with content-based similarity scoring.<br/>
 `python` `scikit-learn` `streamlit`
 
 </td></tr>
 <tr><td width="50%" valign="top" colspan="2">
 
-**[Java_Secure-Intelligent-Password-Manager](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager)** `★ 7`
-Encrypted credential vault with intelligent password generation and secure local storage.
+**[Java_Secure-Intelligent-Password-Manager](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager)** `★ 7`<br/>
+Encrypted credential vault with intelligent password generation and secure local storage.<br/>
 `java` `encryption` `oop`
 
 </td></tr>
@@ -108,24 +108,24 @@ $ cat skills.json | jq
 <table width="100%">
 <tr><td width="50%" valign="top">
 
-```
+<pre>
 frontend    ██████████  react · next.js · ts
 backend     ██████████  node · express · flask
 ai / ml     ████████░░  gemini · claude · sklearn
 databases   ████████░░  postgres · mysql · mongo
 devops      ████████░░  docker · actions · vercel
-```
+</pre>
 
 </td><td width="50%" valign="top">
 
-```
+<pre>
 languages   python · typescript · java · kotlin
 frontend    next.js · react · tailwind · three.js
 backend     node.js · express · flask
 ai / ml     gemini api · claude api · tensorflow
 data        postgresql · mysql · mongodb · supabase
 devops      docker · git · github actions · vercel
-```
+</pre>
 
 </td></tr>
 </table>
@@ -161,7 +161,7 @@ $ ./scripts/print-trophies.sh
 ```
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=N-AVTEJ&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-AVTEJ&theme=github_dark" />
 </div>
 
 ---
