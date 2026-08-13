@@ -46,8 +46,8 @@ I design and ship **full-stack products with AI at the core** — not bolted on 
 
 ```
 ┌────────────┐
-│ REPO STARS │
-│     17     │
+│ ACTIVE REPO│
+│     32     │
 └────────────┘
 ```
 
