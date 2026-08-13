@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Navtej Madipadiga — Full Stack Developer, AI/ML Engineer"/>
+<img src="./assets/hero.png" width="100%" alt="Navtej Madipadiga — Full Stack Developer, AI/ML Engineer"/>
 </div>
 
 <br/>
@@ -192,7 +192,7 @@ $ wakatime stats --last-7-days
 ---
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
+<img src="./assets/footer.png" width="100%" alt="footer"/>
 
 <br/><br/>
 
