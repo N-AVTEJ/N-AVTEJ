@@ -31,13 +31,13 @@ I design and ship **full-stack products with AI baked into the core** — not bo
 - 🧠 Building with **Gemini** & **Claude** APIs — RAG pipelines, agentic flows, structured generation
 - ⚙️ Comfortable across the stack: React/Next.js frontends → Flask/Node backends → normalized SQL schemas
 - 🏆 4 hackathons, 2nd place at AVISHKRUTI (50+ teams)
-- 📈 32 public repos · actively shipping
+- 📈 32 public repos · 17 stars earned · actively shipping
 
 <div align="center">
 
-| 🤖 AI Products Shipped | 🏆 Hackathons | 🥈 Best Result | 📦 Public Repos |
+| 🤖 AI Products Shipped | 🏆 Hackathons | 🥈 Best Result | ⭐ Repo Stars |
 |:---:|:---:|:---:|:---:|
-| **2 Live** | **4 Participated** | **2nd @ AVISHKRUTI** | **32** |
+| **2 Live** | **4 Participated** | **2nd @ AVISHKRUTI** | **17** |
 
 </div>
 
@@ -156,16 +156,6 @@ Encrypted credential vault with intelligent password generation and secure local
 
 </div>
 
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/N-AVTEJ/N-AVTEJ/output/snake-dark.svg#gh-dark-mode-only" width="100%"/>
-<img src="https://raw.githubusercontent.com/N-AVTEJ/N-AVTEJ/output/snake-light.svg#gh-light-mode-only" width="100%"/>
-</div>
-
-<sub align="center">Needs <code>.github/workflows/snake.yml</code> committed + one manual run under the Actions tab to seed the <code>output</code> branch — see setup note below.</sub>
-
 ---
 
 <div align="center">
@@ -184,3 +174,4 @@ Encrypted credential vault with intelligent password generation and secure local
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=140&section=footer" width="100%"/>
 
 </div>
+
