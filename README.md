@@ -148,9 +148,10 @@ Encrypted credential vault with intelligent password generation and secure local
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1801&count_private=true" />
+
 <img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1801" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N-AVTEJ&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+<img src="./profile/streak.svg" alt="GitHub Streak" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" width="97%" />
 
