@@ -168,7 +168,7 @@ Encrypted credential vault with intelligent password generation and secure local
 <a href="mailto:navtejmadipdiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/N-AVTEJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 
-<br/><br/
+<br/><br/>
 
 **"Ship fast. Learn faster. Build smarter."**
 
