@@ -170,7 +170,7 @@ Encrypted credential vault with intelligent password generation and secure local
 
 <br/><br/>
 
-**"Ship fast. Learn faster. Build smarter."**
+**"Ship fast. Learn faster. Build smarter."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=140&section=footer" width="100%"/>
 
