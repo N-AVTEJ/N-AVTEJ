@@ -1,94 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=220&section=header&text=NAVTEJ%20MADIPADIGA&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=8ab4a1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=200&section=header&text=NAVTEJ%20MADIPADIGA&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Product%20Builder&descAlignY=56&descColor=8ab4a1&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Shipping+AI-powered+products+solo;Next.js+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+%2F+Claude+APIs;2nd+Place+%40+AVISHKRUTI+Build-a-Thon;Ship+fast.+Learn+faster.+Build+smarter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Solo-building+AI+products%2C+idea+to+deploy;Next.js+%C2%B7+React+Native+%C2%B7+Python+%C2%B7+Gemini+%2F+Claude;2nd+Place+%40+AVISHKRUTI+Build-a-Thon;Ship+fast.+Learn+faster.+Build+smarter." alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN__TO__INTERNSHIPS-00FF41?style=for-the-badge&labelColor=0d1117&logo=github" />
 <img src="https://img.shields.io/badge/BASED_IN-HYDERABAD_IN-00FF41?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00FF41" />
-<img src="https://komarev.com/ghpvc/?username=N-AVTEJ&style=for-the-badge&color=00FF41&labelColor=0d1117&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
 ```bash
-$ whoami --verbose
+$ whoami
 
-Name       : Navtej Madipadiga
-Role       : Full Stack Developer & AI/ML Engineer
-College    : Aurora University, Hyderabad · B.Tech CS (Class of 2028)
-Focus      : Building production-grade AI products, solo, end-to-end
-Status     : Open to internships & collaborations
+Navtej Madipadiga
+B.Tech CS · Aurora University, Hyderabad · Class of 2028
+I build full-stack products with AI in the core, solo, end to end.
+Internship: ElevanceSkills (UI/UX, frontend, backend) → shipped DevLens AI
+Open to: internships · collabs · hackathon teams
 ```
 
-## 💡 About
-
-I design and ship **full-stack products with AI baked into the core** — not bolted on. Recent work spans a Next.js career-intelligence platform wired to Gemini, a period-tracking Android app, and a Flask + MySQL pharmacy system with triggers and stored procedures running the backend.
-
-- 🧠 Building with **Gemini** & **Claude** APIs — RAG pipelines, agentic flows, structured generation
-- ⚙️ Comfortable across the stack: React/Next.js frontends → Flask/Node backends → normalized SQL schemas
-- 🏆 4 hackathons, 2nd place at AVISHKRUTI (50+ teams)
-- 📈 32 public repos · 17 stars earned · actively shipping
-
-<div align="center">
-
-| 🤖 AI Products Shipped | 🏆 Hackathons | 🥈 Best Result | ⭐ Repo Stars |
-|:---:|:---:|:---:|:---:|
-| **2 Live** | **4 Participated** | **2nd @ AVISHKRUTI** | **17** |
-
-</div>
+🥈 **2nd** AVISHKRUTI Build-a-Thon (50+ teams) &nbsp;·&nbsp; 🎯 **Finalist** IIT Hyderabad &nbsp;·&nbsp; 🎯 **Finalist** IIT Madras &nbsp;·&nbsp; 🏆 **Top 1000** Vibe Hacks
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔍 [DevLens AI](https://github.com/N-AVTEJ/devlens_git)
-Career intelligence platform — scans a GitHub profile, scores it across 6 dimensions with Recharts radar visuals, and generates a 5-month roadmap. Includes an "Honest Roast Mode" for brutal AI feedback.
+Career intelligence for developers. Scans a GitHub profile, scores it across 6 dimensions on a radar chart, gives a readiness score and a month-by-month roadmap.
 
-**Stack:** Next.js 15 · React 19 · Gemini 1.5 Flash · Three.js · GSAP · Recharts
+**Standout:** "Honest Roast Mode" — brutal, specific feedback on your repos.
+
+`Next.js 15` `React 19` `Tailwind v4` `Gemini` `Three.js` `GSAP` `Recharts`
+
+[Repo](https://github.com/N-AVTEJ/devlens_git)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩸 [VelvetCycle Tracker](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)
-Native Android period-tracking app built for women's health, with an AI-assisted logging flow.
+### 🛠️ [BuildMate](https://github.com/N-AVTEJ/BuildMate)
+Marketplace connecting students with builders for academic projects. Quotation → locked scope → payment → delivery unlock.
 
-**Stack:** Kotlin · Gradle · Gemini API
+**Standout:** backend-authoritative. Payment status, deadlines and delivery gating are enforced server-side, never trusted from the client.
+
+`Razorpay (HMAC-verified)` `Google OAuth` `RBAC` `Vercel`
+
+[Live](https://build-mate-phi.vercel.app) · [Repo](https://github.com/N-AVTEJ/BuildMate)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Pharmacy Protect](https://github.com/N-AVTEJ/pharmacy_protect)
-Full pharmacy management system — customer + admin portals, automated billing via DB triggers, 3NF-normalized schema with stored procedures and views.
+### 🏏 [BATsense](https://github.com/N-AVTEJ/BAT-sense)
+Cricket game where your phone is the bat. Gyroscope + accelerometer decide swing speed and shot direction.
 
-**Stack:** Flask · MySQL · Bootstrap 5 · SHA256 auth
+**Standout:** deterministic swing-to-shot mapping, no RNG. Your real swing is the game. 3D stadium rebuild in progress.
+
+`JavaScript` `Gyro / Accelerometer` `Three.js` `Web Audio`
+
+[Repo](https://github.com/N-AVTEJ/BAT-sense)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Movie Recommender](https://github.com/N-AVTEJ/Movie_recommendation_system)
-Recommendation engine combining collaborative filtering and content-based similarity scoring.
+### 🩸 [VelvetCycle](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)
+Privacy-first period tracker built for India. Open source, no subscription.
 
-**Stack:** Python · Scikit-learn · Pandas · Streamlit
+**Standout:** calculator-disguise lock, PIN + biometric, Hindi and Telugu support, quick-commerce pad reminders.
+
+`React Native` `Expo` `SecureStore`
+
+[Repo](https://github.com/N-AVTEJ/VelvetCycle_tracker_app)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
-### 🔐 [Java Secure Password Manager](https://github.com/N-AVTEJ/Java_Secure-Intelligent-Password-Manager)
-Encrypted credential vault with intelligent password generation and secure local storage.
+### 📄 [DocDrift AI](https://github.com/N-AVTEJ/DocDrift-AI)
+Generates code documentation and detects **doc drift** when code changes but docs don't.
 
-**Stack:** Java · Encryption · OOP · File I/O
+**Standout:** multi-provider LLM support (Gemini, Anthropic, OpenAI) with a free tier.
+
+`Vercel KV` `Gemini` `Claude` `OpenAI`
+
+[Repo](https://github.com/N-AVTEJ/DocDrift-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏍️ [Apex Moto Speedo](https://github.com/N-AVTEJ/apex-moto-speedo)
+Open-source GPS speedometer PWA for motorcycles. MIT licensed.
+
+**Standout:** Kalman-filtered speed, GPS jump rejection, dropout watchdog, HUD mirror mode, superbike TFT-style UI.
+
+`React` `Vite` `PWA` `Geolocation API`
+
+[Repo](https://github.com/N-AVTEJ/apex-moto-speedo)
 
 </td>
 </tr>
@@ -96,64 +112,40 @@ Encrypted credential vault with intelligent password generation and secure local
 
 <div align="center">
 
-[→ See all 32 repositories](https://github.com/N-AVTEJ?tab=repositories)
+[→ All repositories](https://github.com/N-AVTEJ?tab=repositories)
 
 </div>
 
 ---
 
-## 💻 Technologies & Tools
+## 🔨 Now Building
 
-<div align="center">
+- **PromptForge** — interactive prompt engineering academy: 10 modules, live AI labs, video lessons
+- **DevLens v2** — JD gap analyzer, shareable dev card + college leaderboard, auto-fix repo files, mock interviews from your own code
+- **VelvetCycle smart-health** — cycle anomaly detection, symptom-to-doctor flagging, voice-to-log
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=00FF41)
-![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=00FF41)
+---
 
-</div>
+## 🧰 Stack
 
-| Layer | Tools |
+| | |
 |:---|:---|
-| 🎨 **Frontend** | Next.js · React · TypeScript · Tailwind CSS · Three.js |
-| ⚙️ **Backend** | Node.js · Express · Flask |
-| 🤖 **AI/ML** | Gemini API · Claude API · Scikit-learn · TensorFlow |
-| 🗄️ **Data** | PostgreSQL · MySQL · MongoDB · Supabase |
-| 🚀 **DevOps** | Docker · Git · GitHub Actions · Vercel |
+| **Frontend** | Next.js · React · React Native / Expo · TypeScript · Tailwind CSS · Three.js · GSAP |
+| **Backend** | Node.js · Express · Flask |
+| **AI** | Gemini API · Claude API · RAG · structured generation · Scikit-learn |
+| **Data** | PostgreSQL · MySQL · Supabase |
+| **Ship** | Vercel · GitHub Actions · Docker · Git |
 
 ---
 
-## 🏆 Achievements
-
-| Year | Result |
-|:---:|:---|
-| 🥈 2025 | **2nd Place** — AVISHKRUTI Build-a-Thon (50+ teams) |
-| 🏆 2025 | **Top 1000** — Vibe Hacks (HackWithIndia) |
-| 🎯 2025 | **Finalist** — IIT Hyderabad Hackathon |
-| 🎯 2025 | **Finalist** — IIT Madras Hackathon |
-
----
-
-## 📊 GitHub Analytics
+## 📊 Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api?username=N-AVTEJ&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1801&count_private=true" />
-
 <img height="165" src="https://github-readme-stats-topaz-nine-75.vercel.app/api/top-langs/?username=N-AVTEJ&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1801" />
 
-<img src="./profile/streak.svg" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-AVTEJ&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" width="97%" />
+<img src="./profile/streak.svg" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -163,16 +155,15 @@ Encrypted credential vault with intelligent password generation and secure local
 
 ## 🌐 Let's Connect
 
-📍 Hyderabad, India &nbsp;·&nbsp; 🎓 Aurora University, Class of 2028 &nbsp;·&nbsp; 🤝 Open to internships & collabs
+📍 Hyderabad, India &nbsp;·&nbsp; 🎓 Aurora University '28
 
-<a href="mailto:navtejmadipdiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:madipadiganavtej@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/N-AVTEJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 
 <br/><br/>
 
 **"Ship fast. Learn faster. Build smarter."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00FF41&height=120&section=footer" width="100%"/>
 
 </div>
-
