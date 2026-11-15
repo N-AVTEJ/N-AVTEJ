@@ -37,7 +37,7 @@ I design and ship **full-stack products with AI in the core** — not bolted on.
 <a href="https://build-mate-phi.vercel.app"><img src="./assets/p-buildmate.svg" width="49%" alt="BuildMate — marketplace for student academic projects" /></a>
 <a href="https://github.com/N-AVTEJ/BAT-sense"><img src="./assets/p-batsense.svg" width="49%" alt="BATsense — swing your phone like a cricket bat" /></a>
 <a href="https://github.com/N-AVTEJ/VelvetCycle_tracker_app"><img src="./assets/p-velvetcycle.svg" width="49%" alt="VelvetCycle — privacy-first period tracker for India" /></a>
-<a href="https://github.com/N-AVTEJ/DocDrift-AI"><img src="./assets/p-docdrift.svg" width="49%" alt="DocDrift AI — code docs with doc-drift detection" /></a>
+<a href="https://github.com/N-AVTEJ/AutoDoc-ai-ForDevlopers"><img src="./assets/p-AutoDoc-ai.svg" width="49%" alt="AutoDoc AI — code docs with doc-drift detection" /></a>
 <a href="https://github.com/N-AVTEJ/apex-moto-speedo"><img src="./assets/p-apex.svg" width="49%" alt="Apex Moto Speedo — open-source GPS speedometer PWA" /></a>
 
 <sub>Tiles open the repo · BuildMate opens the live app → [repo](https://github.com/N-AVTEJ/BuildMate)</sub>
