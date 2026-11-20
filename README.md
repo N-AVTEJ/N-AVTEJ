@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Navtej Madipadiga — full-stack developer and AI product builder, Hyderabad. Open to internships. 2nd place AVISHKRUTI Build-a-Thon." />
+<img src="./assets/hero.svg" width="100%" alt="Navtej Madipadiga — full-stack developer and AI product builder, Hyderabad. Open to internships. 2nd place AVISHKRUTI Build-a-Thon." /
 
 </div>
 
